@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tiltedkirby.github.io/swhDocJG/sitemap.xml
