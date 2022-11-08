@@ -5,8 +5,8 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Sketching with Hardware Doc JG"
-logo = "img/blowfish_logo.png"
+title = "Sketching with Hardware"
+logo = "img/Sketching-logo-darkmode.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Jeremy Gopp"
-  image = "img/blowfish_logo.png"
+  image = "img/profile.png"
   headline = "Mediainformatics student"
   bio = "I am a Mediainformatics student visiting the course Sketching with Hardware."
   links = [
