@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Sketching with Hardware Doc JG"
+logo = "img/blowfish_logo.png"
+description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Jeremy Gopp"
+  image = "img/blowfish_logo.png"
+  headline = "Mediainformatics student"
+  bio = "I am a Mediainformatics student visiting the course Sketching with Hardware."
+  links = [
+    { email = "mailto:jeremy.gopp@uni-ulm.de" },
+    { github = "https://github.com/tiltedkirby" }
+  ]
