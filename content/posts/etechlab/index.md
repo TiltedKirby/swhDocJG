@@ -51,6 +51,6 @@ have a reference to look at later for the project.
 Finally we get to the project I have chosen to do in the first semester. 
 I have decided to go for the Battlebot and go for an aesthetic design 
 like a 3D printed head. I also wanted to do the RetroPie Gamestation 
-but ultimately i decided to take the project where I have a bit more 
+but ultimately I decided to take the project where I have a bit more 
 freedom and have to program. My premature circuit looks as follows:
 ![](img/etechlab/Battlebot_Circuit.jpg "Premature circuit board for the Battlebot")
